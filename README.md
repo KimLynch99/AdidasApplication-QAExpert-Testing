@@ -1,4 +1,4 @@
-# ShoppingApplication-QAExpert-Testing
+# AdidasApplication-QAExpert-Testing
 In this repository I will prove my value as a QA Expert tester by testing in all levels the Adidas Application Website.
 I am going to run the following tests:
 
